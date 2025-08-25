@@ -11832,6 +11832,7 @@ a:hover, a:focus {
 /*----------------------------------------------------*/
 
 .tz-abp-counter-content {
+  padding-bottom: 55px;
   z-index: 2;
   position: relative;
   border-top: 1px solid #E4DFF2;
